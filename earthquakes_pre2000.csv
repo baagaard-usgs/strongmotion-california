@@ -1,41 +1,44 @@
-COMCAT id | CESMD Name | NGAWest2 Name | NGAWest2 id
-ci3319401|KernCounty_21Jul1952|Kern County|12
-ci3329122|BorregoMountain_08Apr1968|Borrego Mtn|28
-ci3323898|-999|Lytle Creek|29
-ci3347678|SanFernando_09Feb1971|San Fernando|30
-nc1025468|-999|Oroville-03|39
-nc1046962|CoyoteLake_06Aug1979|Coyote Lake|48
-ci3352060|ImperialValley79|Imperial Valley-06|50
-ci9712718|-999|Imperial Velley-07|51
-nc1050040|Livermore80A|Livermore-01|53
-nc1050437|Livermore80B|Livermore-02|54
-ci3326333|-999|Anza (Horse Canyon)-01|55
-nc1053054|-999|Mammoth Lakes-03|58
-nc1053058|-999|Mammoth Lakes-04|59
-nc1053177|-999|Mammoth Lakes-06|61
-nc1053204|-999|Mammoth Lakes-07|62
-nc1053399|-999|Mammoth Lakes-08|63
-nc1053669|-999|Mammoth Lakes-09|65
-ci514869|-999|Westmoreland|73
-nc1091100|Coalinga_02May1983|Coalinga-01|76
-nc1093715|-999|Coalinga-02|77
-nc1098304|-999|Coalinga-04|79
-nc1098982|-999|Coalinga-05|80
-nc17204|MorganHill84|Morgan Hill|90
-nc64626|-999|Hollister-04|98
-ci700917|PalmSprings86|N. Palm Springs|101
-nc99451|ChalfantValley86A|Chalfant Valley-01|102
-nc10085763|ChalfantValley86|Chalfant Valley-02|103
-ci731691|Whittier87|Whittier Narrows-01|113
-ci628016|SuperstitionHills87|Superstition Hills-02|116
-nc216859|LomaPrieta_17Oct1989|Loma Prieta|118
-ci2021449|SierraMadre91|Sietta Madre|145
-nc269151|Petrolia_25Apr1992|Cape Mendocino|123
-ci3031111|Landers92|Landers|125
-ci3031425|BigBear92|Big Bear-01|126
-ci3144585|Northridge_17Jan1994|Northridge-01|127
-ci3149646|-999|Northridge-02|147
-ci3144694|-999|Northridge-03|148
-ci3141273|-999|Northridge-04|149
-ci3141286|-999|Northridge-05|150
-ci3159411|-999|Northridge-06|151
+COMCAT id|EDC Name|VDC Name|VDC id|NGAWest2 Name|NGAWest2 id
+ci3319401|KernCounty_21Jul1952|Kern County|81|Kern County|12
+ci3330127|-999|Parkfield|102|Parkfield|25
+ci3329122|BorregoMountain_08Apr1968|Borrego Mountain|103|Borrego Mtn|28
+ci3323898|-999|Lytle Creek|75|Lytle Creek|29
+ci3347678|SanFernando_09Feb1971|San Fernando|76|San Fernando|30
+nc1025468|-999|-999|-999|Oroville-03|39
+nc1046962|CoyoteLake_06Aug1979|Coyote Lake|33|Coyote Lake|48
+ci3352060|ImperialValley79|Imperial Valley|49|Imperial Valley-06|50
+ci9712718|-999|Imperial Valley Aftershock|50|Imperial Velley-07|51
+nc1050040|Livermore80A|Livermore|12|Livermore-01|53
+nc1050437|Livermore80B|Livermore|11|Livermore-02|54
+ci3326333|-999|-999|-999|Anza (Horse Canyon)-01|55
+nc1053054|-999|-999|-999|Mammoth Lakes-03|58
+nc1053058|-999|-999|-999|Mammoth Lakes-04|59
+nc1053177|-999|-999|-999|Mammoth Lakes-06|61
+nc1053204|-999|-999|-999|Mammoth Lakes-07|62
+nc1053399|-999|-999|-999|Mammoth Lakes-08|63
+nc1053669|-999|-999|-999|Mammoth Lakes-09|65
+ci514869|-999|-999|-999|Westmoreland|73
+nc1091100|Coalinga_02May1983|Coalinga|34|Coalinga-01|76
+nc1093715|-999|-999|-999|Coalinga-02|77
+nc1098304|-999|-999|-999|Coalinga-04|79
+nc1098982|-999|-999|-999|Coalinga-05|80
+nc17204|MorganHill84|Morgan Hill|23|Morgan Hill|90
+nc64626|-999|-999|-999|Hollister-04|98
+ci700917|PalmSprings86|North Palm Springs|40|N. Palm Springs|101
+nc99451|ChalfantValley86A|-999|-999|Chalfant Valley-01|102
+nc10085763|ChalfantValley86|-999|-999|Chalfant Valley-02|103
+ci731691|Whittier87|Whittier Narrows|41|Whittier Narrows-01|113
+ci628016|SuperstitionHills87|Superstition Hills|32|Superstition Hills-02|116
+nc216859|LomaPrieta_17Oct1989|Loma Prieta|24|Loma Prieta|118
+ci2021449|SierraMadre91|Sierra Madre|16|Sierra Madre|145
+nc269151|Petrolia_25Apr1992|Cape Mendocino/Petrolia|19|Cape Mendocino|123
+ci3031111|Landers92|Landers|18|Landers|125
+ci3031425|BigBear92|Big Bear|13|Big Bear-01|126
+ci3144585|Northridge_17Jan1994|Northridge|21|Northridge-01|127|
+ci3149646|-999|-999|-999|Northridge-02|147
+ci3144694|-999|-999|-999|Northridge-03|148
+ci3141273|-999|-999|-999|Northridge-04|149
+ci3141286|-999|-999|-999|Northridge-05|150
+ci3159411|-999|-999|-999|Northridge-06|151
+nc30190473|SanJuanBautista_12Aug1998|San Juan Bautista|611|San Juan Bautista|157
+ci9108652|HectorMine99|Hector Mine|509|Hector Mine|158
